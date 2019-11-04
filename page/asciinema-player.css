@@ -141,18 +141,18 @@
   border-style: solid;
   cursor: text;
   border-width: 0.5em;
-  font-family: Consolas, Menlo, 'Bitstream Vera Sans Mono', monospace, 'Powerline Symbols';
-  line-height: 1.3333333333em;
+  font-family: 'MesloLGS NF';
+  line-height: 1.25em;
 }
 .asciinema-terminal .line {
   letter-spacing: normal;
   overflow: hidden;
-  height: 1.3333333333em;
+  height: 1.25em;
 }
 .asciinema-terminal .line span {
   padding: 0;
   display: inline-block;
-  height: 1.3333333333em;
+  height: 1.25em;
 }
 .asciinema-terminal .line {
   display: block;
@@ -2029,11 +2029,11 @@
 }
 .asciinema-theme-tango .asciinema-terminal {
   color: #cccccc;
-  background-color: #121314;
-  border-color: #121314;
+  background-color: #000000;
+  border-color: #000000;
 }
 .asciinema-theme-tango .fg-bg {
-  color: #121314;
+  color: #000000;
 }
 .asciinema-theme-tango .bg-fg {
   background-color: #cccccc;
