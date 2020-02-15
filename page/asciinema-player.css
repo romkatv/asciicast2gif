@@ -168,7 +168,7 @@
   font-style: italic;
 }
 .asciinema-terminal.font-small {
-  font-size: 12px;
+  font-size: 18px;
 }
 .asciinema-terminal.font-medium {
   font-size: 18px;
@@ -2028,15 +2028,15 @@
   font-weight: bold;
 }
 .asciinema-theme-tango .asciinema-terminal {
-  color: #cccccc;
-  background-color: #000000;
-  border-color: #000000;
+  color: #d3d7cf;
+  background-color: #171a1b;
+  border-color: #171a1b;
 }
 .asciinema-theme-tango .fg-bg {
-  color: #000000;
+  color: #171a1b;
 }
 .asciinema-theme-tango .bg-fg {
-  background-color: #cccccc;
+  background-color: #d3d7cf;
 }
 .asciinema-theme-tango .fg-0 {
   color: #2E3436;
@@ -2133,16 +2133,6 @@
 }
 .asciinema-theme-tango .bg-15 {
   background-color: #eeeeec;
-}
-.asciinema-theme-tango .fg-8,
-.asciinema-theme-tango .fg-9,
-.asciinema-theme-tango .fg-10,
-.asciinema-theme-tango .fg-11,
-.asciinema-theme-tango .fg-12,
-.asciinema-theme-tango .fg-13,
-.asciinema-theme-tango .fg-14,
-.asciinema-theme-tango .fg-15 {
-  font-weight: bold;
 }
 .asciinema-theme-solarized-dark .asciinema-terminal {
   color: #839496;
